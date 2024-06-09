@@ -13,3 +13,4 @@ Welcome to my web development projects repository. This repository contains vari
 8. Web design - Hotel Website
 9. Dice game
 10. Drum Kit
+11. Simon game
